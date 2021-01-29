@@ -7,10 +7,10 @@
 
 ## 💬️ Sobre o projeto
 
-O <b>Hirogu App é um aplicativo para avaliar o desempenho na elaboração de aplicativos para a plataforma Android, utilizando o framework React Native.</<b>
+O <b>Hirogu App </b>é um aplicativo para avaliar o desempenho na elaboração de aplicativos para a plataforma Android, utilizando o framework React Native.
 
 ## 👨‍💻️ Implementações realizadas
-- Criação de uma dívida associando ela a uma pessoa ✔️;
+- Criação de navegação via menu Drawer (Hamburguer) ✔️;
 - Consultar informações de uma dívida ✔️;
 - Atualizar informações de uma dívida ✔️;
 - Deletar uma dívida ✔️;
