@@ -1,56 +1,70 @@
-<div class="Box-body px-5 pb-5">
-        <article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center"><a id="user-content-----" class="anchor" aria-hidden="true" href="#----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-    <a target="_blank" rel="noopener noreferrer" href="/rocketseat-education/semana-omnistack-9/blob/master/.github/logo.png"><img alt="Aircnc" title="#delicinha" src="/rocketseat-education/semana-omnistack-9/raw/master/.github/logo.png" width="250px" style="max-width:100%;"></a>
-</h1>
-<h4 align="center"><a id="user-content----code-and-coffee" class="anchor" aria-hidden="true" href="#---code-and-coffee"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-  <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> Code and coffee
-</h4>
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/678b68b7cd39b5bd39ed0a2bbc33f3ed9f98e3d000fec494b991655f3d9077e4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f756e742f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667"><img alt="GitHub language count" src="https://camo.githubusercontent.com/678b68b7cd39b5bd39ed0a2bbc33f3ed9f98e3d000fec494b991655f3d9077e4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f756e742f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667" data-canonical-src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c69357273ade647de580d8b46498ccc34778561a73b930e474857a715a125be2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667"><img alt="Repository size" src="https://camo.githubusercontent.com/c69357273ade647de580d8b46498ccc34778561a73b930e474857a715a125be2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667" data-canonical-src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-9.svg" style="max-width:100%;"></a>
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/commits/master">
-    <img alt="GitHub last commit" src="https://camo.githubusercontent.com/334de35f60ca782dae18e99e7b0d2865f1d093880feaa4e163c912fd05ad9088/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667" data-canonical-src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-9.svg" style="max-width:100%;">
-  </a>
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/issues">
-    <img alt="Repository issues" src="https://camo.githubusercontent.com/1fd53ae65702bd126c596d5dfbcdf9890fd30984f2b345a08186b625e0244670/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667" data-canonical-src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-9.svg" style="max-width:100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8bb1977f745ee8c8107f711ecfa901421a9b929f308fd431f7211508f8ddbd87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d627269676874677265656e"><img alt="License" src="https://camo.githubusercontent.com/8bb1977f745ee8c8107f711ecfa901421a9b929f308fd431f7211508f8ddbd87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d627269676874677265656e" data-canonical-src="https://img.shields.io/badge/license-MIT-brightgreen" style="max-width:100%;"></a>
-</p>
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-<br>
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="/rocketseat-education/semana-omnistack-9/blob/master/.github/aircnc.png"><img alt="Frontend" src="/rocketseat-education/semana-omnistack-9/raw/master/.github/aircnc.png" width="100%" style="max-width:100%;"></a>
-</p>
-<h2><a id="user-content-rocket-tecnologias" class="anchor" aria-hidden="true" href="#rocket-tecnologias"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"><img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"></g-emoji> Tecnologias</h2>
-<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
-<ul>
-<li><a href="https://nodejs.org/en/" rel="nofollow">Node.js</a></li>
-<li><a href="https://reactjs.org" rel="nofollow">React</a></li>
-<li><a href="https://facebook.github.io/react-native/" rel="nofollow">React Native</a></li>
-<li><a href="https://expo.io/" rel="nofollow">Expo</a></li>
-</ul>
-<h2><a id="user-content--projeto" class="anchor" aria-hidden="true" href="#-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"><img class="emoji" alt="computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"></g-emoji> Projeto</h2>
-<p>O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.</p>
-<h2><a id="user-content--layout" class="anchor" aria-hidden="true" href="#-layout"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bookmark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f516.png"><img class="emoji" alt="bookmark" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f516.png"></g-emoji> Layout</h2>
-<p>Você pode baixar o layout do projeto no formato <code>.sketch</code> através <a href="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch" rel="nofollow">desse link</a>.</p>
-<p>Para abrir o arquivo no formato <code>.sketch</code> em qualquer sistema operacional utilize a ferramenta <a href="https://zeplin.io" rel="nofollow">Zeplin</a>.</p>
-<h2><a id="user-content--como-contribuir" class="anchor" aria-hidden="true" href="#-como-contribuir"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"><img class="emoji" alt="thinking" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"></g-emoji> Como contribuir</h2>
-<ul>
-<li>Faça um fork desse repositório;</li>
-<li>Cria uma branch com a sua feature: <code>git checkout -b minha-feature</code>;</li>
-<li>Faça commit das suas alterações: <code>git commit -m 'feat: Minha nova feature'</code>;</li>
-<li>Faça push para a sua branch: <code>git push origin minha-feature</code>.</li>
-</ul>
-<p>Depois que o merge da sua pull request for feito, você pode deletar a sua branch.</p>
-<h2><a id="user-content-memo-licença" class="anchor" aria-hidden="true" href="#memo-licença"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"><img class="emoji" alt="memo" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> Licença</h2>
-<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="/rocketseat-education/semana-omnistack-9/blob/master/LICENSE.md">LICENSE</a> para mais detalhes.</p>
-<hr>
-<p>Feito com <g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png"><img class="emoji" alt="hearts" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png"></g-emoji> by Rocketseat <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na nossa comunidade!</a></p>
-</article>
-      </div>
+<h1 align="center">
+    <tittle>Hirogu App</tittle>
+<h1 >
+ 
+<img src="https://uploadlista.s3.amazonaws.com/mocks+(1).png" alt="exemplo imagem">
+
+
+## 💬️ Sobre o projeto
+
+O <b>Hirogu App é um aplicativo para avaliar o desempenho na elaboração de aplicativos para a plataforma Android, utilizando o framework React Native.</<b>
+
+## 👨‍💻️ Implementações realizadas
+- Criação de uma dívida associando ela a uma pessoa ✔️;
+- Consultar informações de uma dívida ✔️;
+- Atualizar informações de uma dívida ✔️;
+- Deletar uma dívida ✔️;
+- Consulta de todas dívidas cadastradas ✔️;
+
+---
+
+## 🚀 Tecnologias e libs
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+- [React JS](https://pt-br.reactjs.org/)
+- [React Router](https://reactrouter.com/web/guides/quick-start)
+- [Axios](https://github.com/axios/axios)
+- [Npm](https://www.npmjs.com/)
+
+---
+
+## 🔧️ Ferramentas
+
+Ferramentas utilizadas nesse projeto:
+
+- [VSCode](https://code.visualstudio.com/)
+- [Insomnia](https://insomnia.rest/download/)
+- [Git-e-Github](https://github.com/)
+
+---
+
+## 🗂 Como baixar e rodar o projeto
+
+```bash
+    # Clone o repositório no github
+    $ git clone https://github.com/gusmarques/Gerenciador.git
+    
+    # Entre no diretório "Gerenciador"
+    $ cd Gerenciador
+    
+    # Rode um npm para instalar as dependências do projeto
+    $ npm install
+
+    # De um start na aplicação
+    $ npm start
+```
+---
+
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/u/37513410?s=460&u=de51b35b0b7cb09b2ee86e906b4f0b39d00a71b6&v=4" width="100px;" alt="Foto do Gustavo Marques no github"/><br>
+        <sub>
+          <b>Gustavo Marques</b>
+        </sub>
+      </a>
+ </table>
