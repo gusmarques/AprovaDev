@@ -14,7 +14,7 @@ const Routes = createAppContainer(
 
 
   createDrawerNavigator({
-    Home: {
+    Loader: {
       screen: Loader,
       navigationOptions: {
         drawerLabel: () => null
@@ -29,7 +29,7 @@ const Routes = createAppContainer(
     Pedidos,
     Sobre,
   }, {
-    initialRouteName: 'Home',
+    initialRouteName: 'Loader',
     contentComponent: Drawer,
   })
 );
