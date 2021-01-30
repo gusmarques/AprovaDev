@@ -37,7 +37,7 @@ export default function Conta({ navigation }) {
                 centerComponent={<Text style={{ color: '#F6F5F5', fontSize: 15 }}>Minha Conta</Text>}
                 containerStyle={{
                     backgroundColor: '#000',
-                    paddingTop: 40,
+                    paddingTop:'15%',
                     borderBottomWidth: 2,
                     borderBottomColor: '0px 4px 4px rgba(0, 0, 0, 0.25),blur(4px)'
 

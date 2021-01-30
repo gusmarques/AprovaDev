@@ -16,7 +16,7 @@ export default function Sobre({ navigation }) {
         centerComponent={<Text style={{ color: '#F6F5F5', fontSize: 15 }}>Sobre</Text>}
         containerStyle={{
           backgroundColor: '#000',
-          paddingTop: 40,
+          paddingTop:'15%',
           borderBottomWidth: 2,
           borderBottomColor: '0px 4px 4px rgba(0, 0, 0, 0.25),blur(4px)'
 
@@ -56,8 +56,8 @@ export default function Sobre({ navigation }) {
               para pequenos empresários.
               {'\n'}
               {'\n'}
-              Logo após, tive o prazer de iniciar em um agência de publicidade, onde tive a oportunidade de colocar mais ideias em prática
-              e realizar projetos maiores, desenhando os websites e após desenvolvendo. Após essa experiencia incrível, fui para um startup
+              Logo após, tive o prazer de iniciar em uma agência de publicidade, onde tive a oportunidade de colocar mais ideias em prática
+              e realizar projetos maiores, desenhando os websites e após desenvolvendo. Após essa experiência incrível, fui para um startup
               a qual presenciei a ascensão de mercado e metas de desenvolvimento sendo batidas.
               {'\n'}
               {'\n'}
