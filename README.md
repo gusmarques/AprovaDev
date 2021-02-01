@@ -59,7 +59,7 @@ Ferramentas utilizadas nesse projeto:
     # Entre no diretório "AprovaDev"
     $ cd AprovaDev
     
-    # Rode um npm para instaalr o expo de forma global 
+    # Rode um npm para instalar o expo de forma global 
     $ npm install --global expo-cli
 
     # Rode um npm para instalar as dependências do projeto
